@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wongoose&label=Profile%20views&color=0e75b6&style=flat" alt="wongoose" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 Open to work!
 
 - 👨‍💻 All of my projects are available at [website](https://wongzxofficial.wixsite.com/portfolio/)
 
