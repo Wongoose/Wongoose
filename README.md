@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Zheng Xiang (ZX) Wong</h1>
-<h3 align="center">Driven by a curiosity to challenge conventions and apply innovative thinking, Zheng Xiang (ZX) is a freelance full- stack mobile / web app developer with nearly 4 years of experience in client-facing projects.</h3>
+<h1 align="center">👋 I'm Zheng Xiang (ZX) Wong</h1>
+<h3 align="center">Driven by a curiosity to challenge conventions and apply innovative thinking.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wongoose&label=Profile%20views&color=0e75b6&style=flat" alt="wongoose" /> </p>
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://wongzxofficial.wixsite.com/portfolio/](https://wongzxofficial.wixsite.com/portfolio/)
+- 👨‍💻 All of my projects are available at [website](https://wongzxofficial.wixsite.com/portfolio/)
 
 - 💬 Ask me about **Flutter, Firebase, Organizational Leadership, Systems & Processes**
 
 - 📫 How to reach me **wongzx.official@gmail.com**
 
-- 📄 Know about my experiences [https://3e6bfbba-9a47-40ea-8ba7-7f3f1d9f8108.filesusr.com/ugd/3e388c_266ed548d619445bbfedaed9eac3f5b0.pdf?index=true](https://3e6bfbba-9a47-40ea-8ba7-7f3f1d9f8108.filesusr.com/ugd/3e388c_266ed548d619445bbfedaed9eac3f5b0.pdf?index=true)
+- 📄 Know about my experiences [resume](https://3e6bfbba-9a47-40ea-8ba7-7f3f1d9f8108.filesusr.com/ugd/3e388c_266ed548d619445bbfedaed9eac3f5b0.pdf?index=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
