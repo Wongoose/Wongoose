@@ -1,5 +1,5 @@
-<h1 align="center">👋 I'm Zheng Xiang (ZX) Wong</h1>
-<h3 align="center">Driven by a curiosity to challenge conventions and apply innovative thinking.</h3>
+<h1 align="left">👋 I'm Zheng Xiang (ZX) Wong</h1>
+<h3 align="left">Driven by a curiosity to challenge conventions and apply innovative thinking.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wongoose&label=Profile%20views&color=0e75b6&style=flat" alt="wongoose" /> </p>
 
