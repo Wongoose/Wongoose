@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **wongzx.official@gmail.com**
 
-- 📄 Know about my experiences [resume](https://3e6bfbba-9a47-40ea-8ba7-7f3f1d9f8108.filesusr.com/ugd/3e388c_266ed548d619445bbfedaed9eac3f5b0.pdf?index=true)
+- 📄 Know about my experiences [resume](https://3e6bfbba-9a47-40ea-8ba7-7f3f1d9f8108.filesusr.com/ugd/3e388c_63bee1e8f7d94fffba1e7945efab1c9c.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
